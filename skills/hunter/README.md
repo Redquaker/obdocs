@@ -2,7 +2,7 @@
 
 ## Overview
 
-From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the /`hunt --creatures` command.
+From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the `+hunt --creatures` command.
 
 To start any hunter trip, use `+hunt [quantity] [creature]` - (quantity is optional)
 
@@ -24,7 +24,7 @@ These boosts apply to all hunter creatures, except birdhouses, herbiboar, and pa
 * Hunter potions provide a +2 level boost during your trip
   * This allows you to catch creatures above your current level and use an extra trap if the boost brings your level to the next 20-level threshold (20, 40, 60, 80).
   * They are created with 1 Avantoe potion (unf) & 1 Kebbit teeth dust.
-  * The potions _must_ be 4-dose, so use `+decant hunter potion` before starting.
+  * The potions _must_ be 4-dose, so use `/activities decant `**`potion_name:`**`hunter potion` before starting.
 
 ## Wilderness Hunting
 
@@ -93,7 +93,7 @@ For example, if you encounter a PKer, while having over 20k total of a creature 
 
 You can create hunter gear with the `/create` command. This serves no purpose other than to fill `+cl skilling` slots and be used as warm clothing.
 
-E.g. `/create`` `**`item:`**` ``polar camouflage gear quantity: 1`
+E.g. `/create `**`item:`**`polar camouflage gear `**`quantity:`**`1`
 
 | **Set name**             | **Required Materials**                |
 | ------------------------ | ------------------------------------- |
