@@ -8,7 +8,7 @@ Similar to the Fight Caves, you are not guaranteed to complete The Inferno. Your
 
 At the end of The Inferno, you are rewarded with an [Infernal Cape](https://oldschool.runescape.wiki/w/Infernal\_cape). This is the best in slot melee cape in most situations. You also have a chance at getting the Inferno's pet, [Jal-nib-rek](https://oldschool.runescape.wiki/w/Jal-nib-rek) upon completion, and when gambling Infernal Capes.
 
-Infernal capes can be gambled by doing `+capegamble infernal`
+Infernal capes can be gambled by doing `/gamble cape `**`type:`**`infernal`
 
 Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
 
